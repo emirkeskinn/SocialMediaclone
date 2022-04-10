@@ -2,10 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>FirebaseAutomaticScreenReportingEnabled</key>
+	<string>yes</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
+		<key>UIApplicationSupportsTabbedSceneCollection</key>
+		<false/>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
+		<key>New item</key>
+		<string></string>
 		<key>UISceneConfigurations</key>
 		<dict>
 			<key>UIWindowSceneSessionRoleApplication</key>
@@ -20,6 +26,12 @@
 				</dict>
 			</array>
 		</dict>
+		<key>New item - 2</key>
+		<string></string>
 	</dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>for image</string>
 </dict>
 </plist>
